@@ -51,29 +51,29 @@ CyberShield is ideal for:
 
 ### ⚙️ Key Features
 
-| **Feature**                    | **Description**                                                                               |
-| ------------------------------ | --------------------------------------------------------------------------------------------- |
-| 🧠 Real-Time Threat Detection  | Instantly identifies malware, ransomware, and phishing attempts using AI-assisted monitoring. |
-| 🔐 Secure File Transfer        | Encrypts files and ensures safe data sharing within or outside your network.                  |
-| ⚙️ Automated Incident Response | Detects and neutralizes threats without manual intervention.                                  |
-| 📊 Centralized Dashboard       | A unified interface for viewing system status, reports, and logs.                             |
-| 🧩 Customizable Scans          | Choose between quick, full, or scheduled scans based on your security needs.                  |
+| **Feature**                        | **Description**                                                                               |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- |
+| **🧠 Real-Time Threat Detection**  | Instantly identifies malware, ransomware, and phishing attempts using AI-assisted monitoring. |
+| 🔐 **Secure File Transfer**        | Encrypts files and ensures safe data sharing within or outside your network.                  |
+| ⚙️ **Automated Incident Response** | Detects and neutralizes threats without manual intervention.                                  |
+| 📊 **Centralized Dashboard**       | A unified interface for viewing system status, reports, and logs.                             |
+| 🧩 **Customizable Scans**          | Choose between quick, full, or scheduled scans based on your security needs.                  |
 
 ***
 
 ### 🔒 Why Choose CyberShield
 
-* Designed for simplicity — no complex setup required.
-* Backed by real-time intelligence — powered by AI-driven threat analysis.
-* Built for scalability — suitable for individuals, SMBs, and enterprise environments.
+* Designed for **simplicity** — no complex setup required.
+* Backed by **real-time intelligence** — powered by AI-driven threat analysis.
+* Built for **scalability** — suitable for individuals, SMBs, and enterprise environments.
 
 ***
 
-### 🧾 About the Author
+#### 👩‍💼 About the Author
 
-This documentation is written and maintained by **Stuti**, a _Technical Writer and Content Strategist_ who specializes in creating structured, intuitive, and user-focused documentation for technology products.
+Stuti Sanghvi is a technical writer and content strategist who builds clear, structured, and user-friendly documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
 
-Her work bridges **technical accuracy** and **strategic communication**, helping readers — from end users to developers — understand, adopt, and engage with complex tools effortlessly.
+Her work focuses on creating intuitive documentation systems that help users learn confidently and navigate with ease. She focuses on helping users understand features quickly and perform tasks with ease.
 
 #### **Connect with the Author:**
 
