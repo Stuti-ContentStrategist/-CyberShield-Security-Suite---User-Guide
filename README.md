@@ -71,9 +71,9 @@ CyberShield is ideal for:
 
 #### 👩‍💼 About the Author
 
-Stuti Sanghvi is a technical writer and content strategist who builds clear, structured, and user-friendly documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
+Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
 
-Her work focuses on creating intuitive documentation systems that help users learn confidently and navigate with ease. She focuses on helping users understand features quickly and perform tasks with ease.
+Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She focuses on helping users understand features quickly and perform tasks with ease.
 
 #### **Connect with the Author:**
 
