@@ -1,12 +1,10 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/Xuaz498uadlzVzXcXu1r/
+metaLinks: {}
 ---
 
 # 📘 CyberShield Security Suite - User Guide
 
-## 🧱 Overview
+## Overview
 
 CyberShield Security Suite is a comprehensive cybersecurity solution designed to protect your organization’s data, devices, and networks from ever-evolving digital threats.
 
@@ -14,21 +12,21 @@ Built with enterprise-grade security and user-friendly controls, CyberShield emp
 
 ***
 
-### 📚 Explore the Documentation
+### Explore the Documentation
 
-| **Section**                                              | **Description**                                                               |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [⚙️ **Installation & Setup**](installation-and-setup.md) | Learn how to install, activate, and configure CyberShield for the first time. |
-| [**🧭 Navigation & UI Tour**](navigation-and-ui-tour.md) | Familiarize yourself with the interface, navigation, and monitoring tools.    |
-| [🧾 **Performing Key Tasks**](performing-key-tasks.md)   | Run scans, generate reports, and manage your system’s protection.             |
-| [🧰 **Troubleshooting**](troubleshooting.md)             | Identify and resolve common issues to maintain smooth performance.            |
-| [❓ **FAQs**](frequently-asked-questions-faqs.md)         | Find quick answers to common setup and usage questions.                       |
+| **Section**                                           | **Description**                                                               |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [**Installation & Setup**](installation-and-setup.md) | Learn how to install, activate, and configure CyberShield for the first time. |
+| [**Navigation & UI Tour**](navigation-and-ui-tour.md) | Familiarize yourself with the interface, navigation, and monitoring tools.    |
+| [**Performing Key Tasks**](performing-key-tasks.md)   | Run scans, generate reports, and manage your system’s protection.             |
+| [**Troubleshooting**](troubleshooting.md)             | Identify and resolve common issues to maintain smooth performance.            |
+| [**FAQs**](frequently-asked-questions-faqs.md)        | Find quick answers to common setup and usage questions.                       |
 
 💡 **Tip:** Use the left navigation panel to jump directly to the task or module you want to explore.
 
 ***
 
-### 🎯 Purpose of This Guide
+### Purpose of This Guide
 
 This user guide will help you:
 
@@ -39,7 +37,7 @@ This user guide will help you:
 
 ***
 
-### 👥 Who Should Use CyberShield
+### Who Should Use CyberShield
 
 CyberShield is ideal for:
 
@@ -49,19 +47,19 @@ CyberShield is ideal for:
 
 ***
 
-### ⚙️ Key Features
+### Key Features
 
-| **Feature**                        | **Description**                                                                               |
-| ---------------------------------- | --------------------------------------------------------------------------------------------- |
-| **🧠 Real-Time Threat Detection**  | Instantly identifies malware, ransomware, and phishing attempts using AI-assisted monitoring. |
-| 🔐 **Secure File Transfer**        | Encrypts files and ensures safe data sharing within or outside your network.                  |
-| ⚙️ **Automated Incident Response** | Detects and neutralizes threats without manual intervention.                                  |
-| 📊 **Centralized Dashboard**       | A unified interface for viewing system status, reports, and logs.                             |
-| 🧩 **Customizable Scans**          | Choose between quick, full, or scheduled scans based on your security needs.                  |
+| **Feature**                     | **Description**                                                                               |
+| ------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Real-Time Threat Detection**  | Instantly identifies malware, ransomware, and phishing attempts using AI-assisted monitoring. |
+| **Secure File Transfer**        | Encrypts files and ensures safe data sharing within or outside your network.                  |
+| **Automated Incident Response** | Detects and neutralizes threats without manual intervention.                                  |
+| **Centralized Dashboard**       | A unified interface for viewing system status, reports, and logs.                             |
+| **Customizable Scans**          | Choose between quick, full, or scheduled scans based on your security needs.                  |
 
 ***
 
-### 🔒 Why Choose CyberShield
+### Why Choose CyberShield
 
 * Designed for **simplicity** — no complex setup required.
 * Backed by **real-time intelligence** — powered by AI-driven threat analysis.
@@ -69,9 +67,9 @@ CyberShield is ideal for:
 
 ***
 
-#### 👩‍💼 About the Author
+#### 👩‍About the Author
 
-Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
+Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
 
 Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She helps **users understand features quickly and carry out tasks easily.**
 
@@ -82,5 +80,4 @@ Her work focuses on creating **intuitive documentation systems** that help users
 [**🌐 Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
 [**🔗 GitHub**](https://github.com/Stuti-ContentStrategist)
 
-Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
-
+Learn more → **About the Author**
