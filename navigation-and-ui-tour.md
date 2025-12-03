@@ -10,11 +10,11 @@ Once you’ve installed and activated **CyberShield Security Suite**, the next s
 
 ***
 
-## 🖥️ The Dashboard at a Glance
+## The Dashboard at a Glance
 
 When you launch CyberShield, you’ll see the **Dashboard** — your central control hub.
 
-### 🧩 **Key Elements:**
+### **Key Elements:**
 
 | Element                            | Description                                                                      |
 | ---------------------------------- | -------------------------------------------------------------------------------- |
@@ -25,11 +25,9 @@ When you launch CyberShield, you’ll see the **Dashboard** — your central con
 
 <figure><img src=".gitbook/assets/cybershield Central Control Hub.png" alt="CyberShield Security dashboard highlighting the central control hub section containing System Protection, Threat Overview, Quick Scan, and Network Activity panels."><figcaption><p><em>Figure 2: Central Control Hub for monitoring protection, threats, and network activity</em></p></figcaption></figure>
 
-
-
 ***
 
-### 🧩 Main Navigation Menu
+### Main Navigation Menu
 
 The **Left Sidebar Menu** provides quick access to all major modules.
 
@@ -44,13 +42,11 @@ The **Left Sidebar Menu** provides quick access to all major modules.
 
 > **💡 Tip:** Hover over an icon to display its tooltip name.
 
-
-
 <figure><img src=".gitbook/assets/CyberShield Main Navigation Menu.png" alt="CyberShield Security interface showing the Main Navigation Menu on the left sidebar with options for Firewall, Antivirus, Network Monitor, Reports, Settings, and Help."><figcaption><p><em>Figure 3 Main Navigation Menu providing access to core CyberShield modules.</em></p></figcaption></figure>
 
 ***
 
-### ⚙️ Top Bar Functions
+### Top Bar Functions
 
 At the top-right of your interface, you’ll find several quick-action tools:
 
@@ -63,7 +59,7 @@ At the top-right of your interface, you’ll find several quick-action tools:
 
 ***
 
-### 🧠 Interface Highlights
+### Interface Highlights
 
 * **Color Codes:**
   * 🟢 _Secure_ — No issues detected

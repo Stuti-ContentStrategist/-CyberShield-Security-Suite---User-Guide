@@ -12,7 +12,7 @@ Each problem is paired with possible causes and step-by-step solutions.
 
 ***
 
-### ⚠️ Common Problems and Solutions
+### Common Problems and Solutions
 
 | Problem                                    | Possible Cause                                                  | Solution                                                                                                                                                                      |
 | ------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ Each problem is paired with possible causes and step-by-step solutions.
 
 ***
 
-### 🧩 Advanced Fix: Restoring Default Settings
+### Advanced Fix: Restoring Default Settings
 
 If multiple issues occur, restoring default settings can help.
 
@@ -37,7 +37,7 @@ If multiple issues occur, restoring default settings can help.
 
 ***
 
-### 🔄 If CyberShield Stops Responding
+### If CyberShield Stops Responding
 
 1. Press **Ctrl + Shift + Esc** to open Task Manager.
 2. Locate **CyberShield.exe** under the **Processes** tab.
@@ -48,7 +48,7 @@ If multiple issues occur, restoring default settings can help.
 
 ***
 
-### 🛟 Getting Support
+### Getting Support
 
 If these steps don’t resolve your issue:
 
@@ -56,4 +56,4 @@ If these steps don’t resolve your issue:
 * 🌐 **Visit:** [https://cybershield.com/support](https://cybershield.com/support)
 * 💬 **Community Forum:** Share your issue and get responses from other CyberShield users.
 
-🧰 Most issues can be resolved using these steps — but if a problem persists, reach out through the support channels for quick assistance.
+Most issues can be resolved using these steps — but if a problem persists, reach out through the support channels for quick assistance.

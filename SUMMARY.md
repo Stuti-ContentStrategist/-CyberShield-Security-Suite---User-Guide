@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📘 CyberShield Security Suite - User Guide](README.md)
+* [📒 CyberShield Security Suite - User Guide](README.md)
 * [⚙️ Installation & Setup](installation-and-setup.md)
 * [🧭 Navigation & UI Tour](navigation-and-ui-tour.md)
 * [🧾 Performing Key Tasks](performing-key-tasks.md)

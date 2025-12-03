@@ -13,7 +13,7 @@ If you don’t find what you’re looking for here, visit our [Support Center](h
 
 ***
 
-### 💡 General Questions
+### General Questions
 
 **Q1. Can I use CyberShield on multiple devices?**\
 Yes. Depending on your license plan:
@@ -78,9 +78,9 @@ Yes.
 
 ***
 
-#### 🧭 End of Guide!
+#### End of Guide!
 
-🎉 **Congratulations — you’ve completed the CyberShield Security Suite User Guide!**
+**Congratulations — you’ve completed the CyberShield Security Suite User Guide!**
 
 You now know how to:
 
@@ -89,4 +89,4 @@ You now know how to:
 * [Perform key security tasks](performing-key-tasks.md)
 * [Troubleshoot](troubleshooting.md) issues and[ find support](frequently-asked-questions-faqs.md) when needed
 
-📚 For continuous updates, tutorials, and best practices, visit the [**CyberShield Knowledge Base**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/U82Dyw74to5o70c6zb0E/).
+For continuous updates, tutorials, and best practices, visit the **CyberShield Knowledge Base**.

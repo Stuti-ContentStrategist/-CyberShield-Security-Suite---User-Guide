@@ -12,7 +12,7 @@ Before you begin, ensure your system meets the requirements below.
 
 ***
 
-### 💻 System Requirements
+### System Requirements
 
 | Component               | Minimum Requirement                       |
 | ----------------------- | ----------------------------------------- |
@@ -24,7 +24,7 @@ Before you begin, ensure your system meets the requirements below.
 
 ***
 
-### 🔽 Step 1: Download CyberShield
+### Step 1: Download CyberShield
 
 1. Visit the official CyberShield website: [https://cybershield.com/download](https://cybershield.com/download)
 2. Choose your operating system (Windows or macOS).
@@ -35,7 +35,7 @@ Before you begin, ensure your system meets the requirements below.
 
 ***
 
-### 🧩 Step 2: Install CyberShield
+### Step 2: Install CyberShield
 
 1. Double-click the downloaded **CyberShield\_Setup.exe** (Windows) or **CyberShield.pkg** (macOS).
 2. Follow the on-screen installation wizard.
@@ -45,11 +45,9 @@ Before you begin, ensure your system meets the requirements below.
 
 <figure><img src=".gitbook/assets/CyberShield Setup Wizard.png" alt="CyberShield Setup Wizard installation window showing installation progress with a green progress bar and a Cancel button."><figcaption><p><em>Figure 1: CyberShield Setup Wizard displaying installation progress for the CyberShield Security Suite.</em></p></figcaption></figure>
 
-<p align="center"></p>
-
 ***
 
-### 🔐 Step 3: Activate Your License
+### Step 3: Activate Your License
 
 1. Launch **CyberShield Security Suite**.
 2. On the **Welcome Screen**, click **Activate License**.
@@ -59,11 +57,11 @@ Before you begin, ensure your system meets the requirements below.
 
     ✅ _Your license has been successfully activated._
 
-> 🧩 **Tip:** If activation fails, check your internet connection or ensure the key hasn’t expired.
+> 💡 **Tip:** If activation fails, check your internet connection or ensure the key hasn’t expired.
 
 ***
 
-### 🧱 Step 4: First-Time Setup
+### Step 4: First-Time Setup
 
 After activation, you’ll be guided through a quick setup wizard:
 
@@ -72,4 +70,4 @@ After activation, you’ll be guided through a quick setup wizard:
 3. Enable **Automatic Updates**.
 4. Click **Finish Setup** to complete the process.
 
-🎉 CyberShield is now ready to use!
+CyberShield is now ready to use!

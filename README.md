@@ -2,7 +2,7 @@
 metaLinks: {}
 ---
 
-# 📘 CyberShield Security Suite - User Guide
+# 📒 CyberShield Security Suite - User Guide
 
 ## Overview
 
@@ -67,7 +67,7 @@ CyberShield is ideal for:
 
 ***
 
-#### 👩‍About the Author
+#### About the Author
 
 Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
 

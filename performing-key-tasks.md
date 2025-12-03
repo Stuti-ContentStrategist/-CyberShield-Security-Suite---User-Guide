@@ -10,7 +10,7 @@ This section walks you through the most common actions you’ll perform in **Cyb
 
 ***
 
-### 🦠 Task 1: Run a Full System Scan
+### Task 1: Run a Full System Scan
 
 Running a full system scan checks your device for viruses, malware, and suspicious files.
 
@@ -27,7 +27,7 @@ Running a full system scan checks your device for viruses, malware, and suspicio
 
 ***
 
-### ⏰ Task 2: Schedule Automatic Scans
+### Task 2: Schedule Automatic Scans
 
 To ensure ongoing protection, set up regular automatic scans.
 
@@ -40,13 +40,11 @@ To ensure ongoing protection, set up regular automatic scans.
 
 ✅ _CyberShield will now run scans automatically based on your chosen schedule._
 
-&#x20;
-
 <figure><img src=".gitbook/assets/cybershield Scheduler.png" alt="CyberShield Scan Scheduler window showing fields to add a new schedule with scan type set to Full, frequency set to Weekly, and day and time set to Monday, 9:00 AM."><figcaption><p><em>Figure 5: Configuring a new automatic scan schedule in CyberShield.</em></p></figcaption></figure>
 
 ***
 
-### 📊 Task 3: View and Export Security Reports
+### Task 3: View and Export Security Reports
 
 CyberShield automatically records threat and scan data in detailed reports.
 
@@ -62,7 +60,7 @@ CyberShield automatically records threat and scan data in detailed reports.
 
 ***
 
-### 🔒 Task 4: Configure the Firewall
+### Task 4: Configure the Firewall
 
 Control which applications and services can access your network.
 
@@ -76,7 +74,7 @@ Control which applications and services can access your network.
 
 ***
 
-### 🧩 Task 5: Update Virus Definitions
+### Task 5: Update Virus Definitions
 
 Keeping your virus definitions up-to-date ensures protection against new threats.
 
